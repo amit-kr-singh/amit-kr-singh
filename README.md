@@ -161,6 +161,12 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
    &emsp;
   <img alt="Font Awesome" src="https://img.shields.io/badge/Font%20Awesome-528DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white">
    &emsp;
+   <img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white">
+   &emsp;
+ <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white">
+   &emsp;
+ <img alt="edX" src="https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edX&logoColor=white">
+   &emsp;
  
 </p>
 
