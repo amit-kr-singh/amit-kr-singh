@@ -167,7 +167,8 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
    &emsp;
  <img alt="edX" src="https://img.shields.io/badge/edX-02262B.svg?style=for-the-badge&logo=edX&logoColor=white">
    &emsp;
- 
+ <img alt="Ms Teams" src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white">
+   &emsp;
 </p>
 
 
