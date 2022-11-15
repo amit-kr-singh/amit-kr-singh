@@ -9,7 +9,6 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
 
 <h3> Here's some fun facts about me: </h3>
 
-
 - 🔭 I’m currently working on Angular Projects.
 - 🏢 I’m also learning and enhancing my skills in tech world.
 - 🌱 I've 2+ years of work experience in tech World.
