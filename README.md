@@ -124,6 +124,43 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
    &emsp;
    <img alt="Ms OutLook" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white">
    &emsp;
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+   &emsp;
+ <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white">
+   &emsp;
+ <img alt="StackBlitz" src="https://img.shields.io/badge/StackBlitz-1269D3.svg?style=for-the-badge&logo=StackBlitz&logoColor=white">
+   &emsp;
+ <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
+   &emsp;
+ <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+   &emsp;
+ <img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white">
+   &emsp;
+ <img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
+   &emsp;
+  <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white">
+   &emsp;
+ <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white">
+   &emsp;
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+   &emsp;
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+   &emsp;
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white">
+   &emsp;
+  <img alt="Invision" src="https://img.shields.io/badge/InVision-FF3366.svg?style=for-the-badge&logo=InVision&logoColor=white">
+   &emsp;
+ <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+   &emsp;
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
+   &emsp;
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white">
+   &emsp;
+ <img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white">
+   &emsp;
+  <img alt="Font Awesome" src="https://img.shields.io/badge/Font%20Awesome-528DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white">
+   &emsp;
+ 
 </p>
 
 
