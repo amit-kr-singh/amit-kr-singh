@@ -53,7 +53,7 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
 ### 👉 Programming languages
 <p align="left"> 
   
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&emsp;![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&emsp;![](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white)&emsp;![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&emsp;![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&emsp;![](https://img.shields.io/badge/Scss-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)&emsp;![](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)&emsp;![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 </p>
 
 
