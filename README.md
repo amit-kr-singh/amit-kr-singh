@@ -40,11 +40,10 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-kr-singh&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amit-kr-singh&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
 <p>
  
-   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amit-kr-singh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
- </p>
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amit-kr-singh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+</p>
 
 <hr>
 
