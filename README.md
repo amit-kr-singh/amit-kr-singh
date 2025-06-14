@@ -3,16 +3,16 @@
 ## Welcome to my Profile ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit-kr-singh)
 
 
-My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https://cuedo.in/). 
+My name is Amit Kumar Singh, I'm a Software Engineer at [Persistent System](https://www.persistent.com/). 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Angular Projects.
+- 🔭 I’m currently working on ReactJs Projects.
 - 🏢 I’m also learning and enhancing my skills in tech world.
-- 🌱 I've 2+ years of work experience in tech World.
-- 👯 I’m looking to collaborate on Angular projects & Open Source.
+- 🌱 I've 4+ years of work experience in tech World.
+- 👯 I’m looking to collaborate on ReactJs projects & Open Source.
 - 💬 Ask me about Computer World.
 
 <p>Connect with me on
